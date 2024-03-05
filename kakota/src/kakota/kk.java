@@ -39,7 +39,7 @@ public class kk extends JFrame {
 
 		setContentPane(contentPane);
 		
-		JLabel lblNewLabel = new JLabel("Diego es el lider de los mariconchis");
+		JLabel lblNewLabel = new JLabel("Unai la chupa");
 		contentPane.add(lblNewLabel);
 	}
 
